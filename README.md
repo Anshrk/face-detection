@@ -3,12 +3,12 @@
 ## To use to application follow the steps below
 ---
 1. Clone the repository
-```python
+```bash
 git clone https://github.com/anshrk/face-detection
 cd face-detection
 ```
 2. Installed the required libraries
-```python
+```bash
 # use a virtual environment if needed
 pip3 install -r requirements.txt
 ```
